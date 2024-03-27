@@ -1,14 +1,14 @@
 {
-  "name": "tki-qrcode",
-  "version": "0.1.6",
-  "description": "qrcode",
+  "name": "uniapp-qrcode",
+  "version": "0.0.1",
+  "description": "create qrcode",
   "main": "components/tki-qrcode/tki-qrcode.vue",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/q310550690/uni-app-qrcode.git"
+    "url": "git+https://https://github.com/zhoujian917/uni-app-qrcode.git"
   },
   "keywords": [
     "qrcode",
@@ -17,10 +17,6 @@
     "tki-qrcode",
     "TikiUi"
   ],
-  "author": "sxq",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/q310550690/uni-app-qrcode/issues"
-  },
-  "homepage": "https://github.com/q310550690/uni-app-qrcode#readme"
+  "author": "zj",
+  "license": "MIT"
 }
